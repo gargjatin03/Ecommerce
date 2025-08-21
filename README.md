@@ -9,5 +9,5 @@
 
 <br>
 
-[![Website Preview]e-commerce-92mziev1d-gargjatin03s-projects.vercel.app)](https://e-commerce-dun-phi.vercel.app/)
+[![Website Preview](e-commerce-92mziev1d-gargjatin03s-projects.vercel.app)](https://e-commerce-dun-phi.vercel.app/)
 
