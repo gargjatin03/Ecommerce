@@ -5,7 +5,7 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen)](https://your-website-link.com)
+[![Website](https://img.shields.io/badge/Visit%20Now-brightgreen)](https://your-website-link.com)
 
 <br>
 
